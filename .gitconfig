@@ -1,0 +1,7 @@
+[credential]
+        helper = store
+[user]
+        email = denhampreen@gmail.com
+        name = denhampreen
+[alias]
+    tree = log --graph --decorate --pretty=oneline --abbrev-commit
